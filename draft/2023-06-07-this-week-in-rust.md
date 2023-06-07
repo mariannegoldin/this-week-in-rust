@@ -134,14 +134,6 @@ Rusty Events between 2023-06-07 - 2023-07-05 🦀
 
 ### Virtual
 
-* 2023-05-31 | Virtual (Chicago, IL, US) | [Chicago Healthcare Cloud Technology Community](https://www.meetup.com/chicago-healthcare-tech-and-ai/)
-    * [**Rust for Mission-Critical AI: A Journey into Healthcare's Safest Language**](https://www.meetup.com/chicago-healthcare-tech-and-ai/events/293278396/?chapterContext=true&regToRsvp=true&isFromReg=true)
-* 2023-06-06 | Virtual (Austin, TX, US) | [WebAssembly and WasmEdge](https://www.meetup.com/webassembly-and-wasmedge/)
-    * [**Monthly WasmEdge Community Meeting**](https://www.meetup.com/webassembly-and-wasmedge/events/293014949)
-* 2023-06-06 | Virtual (Berlin, DE) | [OpenTechSchool Berlin](https://www.meetup.com/opentechschool-berlin/)
-    * [**Rust Hack and Learn**](https://www.meetup.com/opentechschool-berlin/events/293485509)
-* 2023-06-06 | Virtual (Buffalo, NY, US) | [Buffalo Rust Meetup](https://www.meetup.com/buffalo-rust-meetup/)
-    * [**Buffalo Rust User Group, First Tuesdays**](https://www.meetup.com/buffalo-rust-meetup/events/293296995)
 * 2023-06-07 | Virtual (Indianapolis, IN, US) | [Indy Rust](https://www.meetup.com/indyrs/)
     * [**Indy.rs - with Social Distancing**](https://www.meetup.com/indyrs/events/293309294)
 * 2023-06-07 | Virtual (Stuttgart, DE) | [Rust Community Stuttgart](https://www.meetup.com/rust-community-stuttgart/)
@@ -174,10 +166,6 @@ Rusty Events between 2023-06-07 - 2023-07-05 🦀
 
 ### Europe
 
-* 2023-06-03 | Plovidv, BG | [AeroRust](https://aerorust.org)
-    * [**Space Conference - Plovdiv**](https://space-conference-plovdiv.eventbrite.com)
-* 2023-06-04 | Plovidv, BG | [AeroRust](https://aerorust.org)
-    * [**Space Conference : Nanosatellite embedded workshop**](https://forms.gle/rnFx5wCbrYA9qN7m6)
 * 2023-06-08 | Aarhus, DK | [Rust Aarhus](https://www.meetup.com/rust-aarhus/)
     * [**Rust Aarhus meetup #2 sponsored by BRØLSTÆRK**](https://www.meetup.com/rust-aarhus/events/292865970/)
 * 2023-06-08 | Paris, FR | [Stockly.ai](https://www.eventbrite.fr/o/stockly-42274765293)
@@ -191,10 +179,6 @@ Rusty Events between 2023-06-07 - 2023-07-05 🦀
 
 ### North America
 
-* 2023-06-01 | Mountain View, CA, US | [Mountain View Rust Meetup](https://www.meetup.com/mv-rust-meetup/)
-    * [**Rust Meetup at Hacker Dojo**](https://www.meetup.com/mv-rust-meetup/events/293763494/)
-* 2023-06-01 | Pasadena, CA, US | [Pasadena Thursday Go / Rust](https://www.meetup.com/thursday-go/)
-    * [**Weekly leetcode group (Go and Rust)**](https://www.meetup.com/thursday-go/events/293777753)
 * 2023-06-07 | Austin, TX, US | [Rust ATX](https://www.meetup.com/rust-atx/)
     * [**Rust Lunch**](https://www.meetup.com/rust-atx/events/293730065)
 * 2023-06-08 | Lehi, UT, US | [Utah Rust](https://www.meetup.com/utah-rust/events/)
