@@ -1,6 +1,6 @@
-Title: This Week in Rust 554
-Number: 554
-Date: 2024-07-03
+Title: This Week in Rust 553
+Number: 553
+Date: 2024-06-26
 Category: This Week in Rust
 
 Hello and welcome to another issue of *This Week in Rust*!
@@ -150,14 +150,14 @@ which are reaching a decision. Express your opinions now.
 
 ## Upcoming Events
 
-Rusty Events between 2024-07-03 - 2024-07-31 🦀
+Rusty Events between 2024-06-26 - 2024-07-24 🦀
 
 ### Virtual
 * 2024-06-27 | Virtual (Charlottesville, NC, US) | [Charlottesville Rust Meetup](https://www.meetup.com/charlottesville-rust-meetup/)
     * [**Crafting Interpreters in Rust Collaboratively**](https://www.meetup.com/charlottesville-rust-meetup/events/298897826/)
 * 2024-07-02 | Virtual (Buffalo, NY) | [Buffalo Rust Meetup](https://www.meetup.com/buffalo-rust-meetup/)
     * [**Buffalo Rust User Group**](https://www.meetup.com/buffalo-rust-meetup/events/300191673/)
-* 2024-07-02 | Hybrid - Virtual and In-person (Los Angeles, CA, US) | [Rust Los Angeles](https://www.meetup.com/rust-los-angeles/)
+* 2024-07-02 | Hybrid - Virtual and In-person (Los Angeles, CA, US) | [Rust Los Angeles](https://www.meetup.com/rust-los-angeles/)    
     * [**Rust LA Reboot**](https://www.meetup.com/rust-los-angeles/events/301645611/)
 * 2024-07-03 | Virtual | [Training 4 Programmers LLC](https://www.eventbrite.com/o/training-4-programmers-llc-80387368983)
     * [**Build Web Apps with Rust and Leptos**](https://www.eventbrite.com/e/build-web-apps-with-rust-and-leptos-tickets-904804503627?aff=odcleoeventsincollection)
@@ -178,7 +178,7 @@ Rusty Events between 2024-07-03 - 2024-07-31 🦀
 * 2024-07-11 | Hybrid - Virtual and In-person (Mexico City, DF, MX) | [Rust MX](https://www.meetup.com/rust-mx/)
     * [**Programación de sistemas con Rust**](https://www.meetup.com/rust-mx/events/301740677/)
 * 2024-07-11 | Virtual (Nürnberg, DE) | [Rust Nuremberg](https://www.meetup.com/rust-noris/)
-    * [**Rust Nürnberg online**](https://www.meetup.com/rust-noris/events/298076822/)
+    * [**Rust Nürnberg online**](hhttps://www.meetup.com/rust-noris/events/298076822/)
 * 2024-07-11 | Virtual (Tel Aviv, IL) | [Code Mavens](https://www.meetup.com/code-mavens/)
     * [**Reading JSON files in Rust (English)**](https://www.meetup.com/code-mavens/events/301636580/)
 * 2024-07-16 | Virtual (Tel Aviv, IL) | [Code Mavens](https://www.meetup.com/code-mavens/)
@@ -223,7 +223,7 @@ Rusty Events between 2024-07-03 - 2024-07-31 🦀
     * [**Music City Rust Developers: Holding Pattern**](https://www.meetup.com/music-city-rust-developers/events/301411746/)
 * 2024-06-27 | St. Louis, MO, US | [STl Rust](https://www.meetup.com/stl-rust/)
     * [**Meet and Greet Hacker session**](https://www.meetup.com/stl-rust/events/301321974/)
-* 2024-07-02 | Hybrid - Los Angeles, CA, US | [Rust Los Angeles](https://www.meetup.com/rust-los-angeles/)
+* 2024-07-02 | Hybrid - Los Angeles, CA, US | [Rust Los Angeles](https://www.meetup.com/rust-los-angeles/)    
     * [**Rust LA Reboot**](https://www.meetup.com/rust-los-angeles/events/301645611/)
 * 2024-07-05 | Boston, MA, US | [Boston Rust Meetup](https://www.meetup.com/bostonrust/)
     * [**Boston University Rust Lunch, July 5**](https://www.meetup.com/bostonrust/events/301549737/)
@@ -240,6 +240,7 @@ Rusty Events between 2024-07-03 - 2024-07-31 🦀
 
 
 ### Oceania
+
 
 If you are running a Rust event please add it to the [calendar] to get
 it mentioned here. Please remember to add a link to the event too.
